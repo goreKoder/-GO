@@ -1,4 +1,4 @@
-package main //go run LAB_1/lab_1.go
+package main //go run LABA_1/lab_1.go
 
 import (
 	"fmt"
