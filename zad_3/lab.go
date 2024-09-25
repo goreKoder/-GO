@@ -1,4 +1,4 @@
-package main //go run zad_3/lab_3.go
+package main //go run zad_3/lab.go
 
 import "fmt"
 
